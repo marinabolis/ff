@@ -6,12 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./home.component.css']
 })
 export class HomeComponent {
-username: string="mohamed"
-userAge:number =32
-images: string="assets/images/20200226_094020.jpg"
-imgWidth:number = 500
 
 }
-
-
-
